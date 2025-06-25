@@ -1,14 +1,13 @@
 # MitzMode - Jewish Mitzvah App
 
-MitzMode is an Android app that helps users discover and track daily mitzvot (good deeds) in Jewish practice. The app features a mitzvah generator, daily checklist, timer functionality, and more.
+MitzMode is an Android app that helps users discover and track daily mitzvot (good deeds) in Jewish practice. The app features a mitzvah generator, daily checklist for those looking to increase mitzvah observance, and more.
 
 ## 🎯 Features
 
 - **Mitzvah Generator**: Get random mitzvot from a curated database
 - **Daily Mitzvah Checklist**: Track daily Jewish observances for men and women
-- **Timer**: Meat/dairy waiting timer for kosher observance
 - **Level System**: Progress tracking with reward videos
-- **Background Videos**: Beautiful animated backgrounds
+- **Background Videos**: Cool animated backgrounds
 - **Offline Support**: Works without internet connection
 - **Add Mitzvot**: Submit new mitzvot for community use
 
@@ -85,7 +84,6 @@ MitzMode is an Android app that helps users discover and track daily mitzvot (go
 - **MainActivity**: Main entry point with navigation
 - **MitzModeViewModel**: Core app logic and mitzvah management  
 - **DailyMitzvotChecklist**: Daily observance tracking
-- **TimerDialog**: Kosher waiting timer
 - **VideoBackground**: Animated background videos
 - **Data Layer**: Repository pattern with local and cloud data sources
 
@@ -170,19 +168,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Use environment variables or secure configuration for sensitive data
 - Keep your keystore file secure and backed up
 - Regularly update dependencies for security patches
-
-## 📞 Support
-
-If you have questions or need help:
-- Open an issue on GitHub
-- Check the [documentation](docs/)
-- Review existing issues for similar problems
-
-## 📋 Acknowledgments
-
-- Jewish learning resources and rabbinical guidance
-- Open source community for excellent libraries
-- Beta testers and community feedback
 
 ---
 
